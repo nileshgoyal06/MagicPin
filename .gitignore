@@ -1,0 +1,32 @@
+# Bytecode cache directories
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+venv.bak/
+env.bak/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Test logs or outputs
+results/
+*.log
+test_replies.py
+test_full.py
